@@ -1,0 +1,8 @@
+Thumbs.db
+Desktop.ini
+.env
+*.pdb
+*.obj
+.vs/
+bin/
+obj/
